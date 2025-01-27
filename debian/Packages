@@ -1,0 +1,11 @@
+Package: vehicle-logger
+Version: 1.0.9
+Architecture: arm64
+Maintainer: cliff <c-wu@mksc.jp>
+Filename: ./vehicle-logger-1.0.9.deb
+Size: 6777816
+MD5sum: cb3b1ce983b433c73ab15888d67d7f97
+SHA1: c2ba1d51bd055ecf226d2e9eeb4bcaf2c7bb18d5
+SHA256: ad584db2fcaabe21aebb0f742f303030017700b09c200a2c5d801ff60ad7edd1
+Description: vehicle logger
+
